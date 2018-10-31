@@ -7,4 +7,6 @@
 # 详细介绍
 [基于腾讯浏览服务 TBS 实现应用内打开并浏览 Office 文件](https://mp.weixin.qq.com/s/o85q4DWDWcDmFFUcdLeAkw)
 
+[Android打开并浏览 Office PDF 等文件](https://www.jianshu.com/p/b4e6650adf1b)
+
 
